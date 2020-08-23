@@ -1,0 +1,33 @@
+.fondo{
+  background-color: #EEE5FE;
+ }
+ 
+#video {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+  }
+  h2{
+    color: #1DCBB0;
+    font-size: 20px;
+  }
+  .link-social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.link-social.facebook{
+    background-size: 50px 50px;
+    background-image: url("https://img.icons8.com/bubbles/50/000000/facebook.png");
+}
+
+.link-social.instagram{
+    background-size: 50px 50px;
+    background-image: url("https://img.icons8.com/bubbles/50/000000/instagram.png");
+}
+.link-social.whatsapp{
+  background-size: 50px 50px;
+  background-image: url("https://img.icons8.com/bubbles/50/000000/whatsapp.png");
+}
